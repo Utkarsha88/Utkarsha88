@@ -1,4 +1,4 @@
-![MasterHead](https://i.ibb.co/0nz2P31/image.png)
+
 <h1 align="center">Hey 👋, I'm Utkarsha Gupta</h1>
 <h3 align="center">A passionate Data Analyst and Machine Learning with AI</h3>
 <img align="right" width="400" src="https://i.ibb.co/PtrsCyd/output-onlinegiftools.gif">
