@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python,Machine Learning**
 
-- 💬 Ask me about **Adobe photoshop, adobe premiere, After effect , Canva, Figma**
+- 💬 Ask me about **Adobe photoshop, Adobe premiere, After effect , Canva, Figma**
 
 - 📫 How to reach me **utkarshagupta123@gmail.com**
 
