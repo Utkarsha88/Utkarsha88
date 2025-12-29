@@ -1,7 +1,7 @@
 
 <h1 align="center">Hey 👋, I'm Utkarsha Gupta</h1>
 <h3 align="center">A passionate Data Analyst and Machine Learning with AI</h3>
-<img align="right" width="400" src="">
+<img align="right" width="400" >
 
 <p align="left"> <a href="https://twitter.com/utkarshgupta_17" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshgupta_17?logo=twitter&style=for-the-badge" alt="utkarshgupta_17" /></a> </p>
 
