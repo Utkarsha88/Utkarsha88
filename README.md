@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/utkarshgupta_17" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshgupta_17?logo=twitter&style=for-the-badge" alt="utkarshgupta_17" /></a> </p>
 
-- 🌱 I’m currently learning **Python,Machine Learning**
+- 🌱 I’m currently learning **Python, Machine Learning, Deep learning**
 
 - 💬 Ask me about **Adobe photoshop, Adobe premiere, After effect , Canva, Figma**
 
