@@ -1,27 +1,97 @@
-
 <h1 align="center">Hey 👋, I'm Utkarsha Gupta</h1>
-<h3 align="center">A passionate Data Analyst and Machine Learning with AI</h3>
-<img align="right" width="400" >
 
-<p align="left"> <a href="https://twitter.com/utkarshgupta_17" target="blank"><img src="https://img.shields.io/twitter/follow/utkarshgupta_17?logo=twitter&style=for-the-badge" alt="utkarshgupta_17" /></a> </p>
+<h3 align="center">
+Electronics, Communication and Information Engineering Student | IoT & AI Enthusiast | ML Developer
+</h3>
 
-- 🌱 I’m currently learning **Python, Machine Learning, Deep learning**
+---
 
-- 💬 Ask me about **Adobe photoshop, Adobe premiere, After effect , Canva, Figma**
+## 🚀 About Me
 
-- 📫 How to reach me **utkarshagupta123@gmail.com**
+- 🎓 Electronics, Communication and Information Engineering student at IOE Paschimanchal Campus
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, IoT, and Embedded Systems
+- 🌱 Continuously learning and building real-world tech projects
+- 💡 Interested in smart systems, automation, computer vision, and intelligent applications
+- 🛠️ Love combining software with electronics to solve practical problems
+- ⚡ Fun fact: I enjoy cooking almost as much as building projects 😄
 
-- ⚡ Fun fact **I love cooking more than coding.**
+---
 
-<h3 align="left">Connect with me:</h3>
+
+## 🛠️ Languages & Tools
+
 <p align="left">
-<a href="https://twitter.com/utkarshgupta_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utkarshgupta_17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/utkarsha-gupta-25ba03282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utkarsha-gupta-25ba03282" height="30" width="40" /></a>
-<a href="https://fb.com/utkarsha.gupta.88/?" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="utkarsha.gupta.88/?" height="30" width="40" /></a>
-<a href="https://instagram.com/utkarsh_g8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarsh_g8" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/america6663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="america6663" height="30" width="40" /></a>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,arduino,git,github,html,css,bootstrap,figma,tensorflow,opencv,vscode&theme=dark" />
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🎨 Design & Creative Tools
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=photoshop,premiere,aftereffects&theme=dark" />
+
+</p>
+
+---
+
+## 📊 Featured Projects
+
+### 🔹 Customer Churn Prediction
+Machine Learning-based prediction system for customer retention analysis.
+
+### 🔹 Progress Feed App
+Construction project tracking system designed to improve transparency and monitoring.
+
+### 🔹 IoT Environmental Monitoring System
+ESP32-based smart monitoring system using environmental sensors and WiFi communication.
+
+### 🔹 Smart Automation & Embedded Projects
+Hands-on projects involving sensors, IoT devices, and intelligent automation systems.
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/utkarsha-gupta-25ba03282" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  
+  <a href="https://twitter.com/utkarshgupta_17" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/x.svg" width="45" />
+  </a>
+
+  <a href="https://instagram.com/utkarsh_g8" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" />
+  </a>
+
+  <a href="https://www.hackerrank.com/america6663" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hackerrank.svg" width="45" />
+  </a>
+
+  <a href="https://github.com/Utkarsha88" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="50" />
+  </a>
+</p>
+---
+
+## 📧 Contact
+
+- Email: utkarshagupta123@gmail.com
+- GitHub: https://github.com/Utkarsha88
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Utkarsha88&show_icons=true&theme=tokyonight" alt="stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Utkarsha88&theme=tokyonight" alt="streak" />
+
+</p>
